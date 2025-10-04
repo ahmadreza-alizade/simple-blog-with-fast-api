@@ -1,1 +1,1 @@
-# simple-blog-with-fast-api
+# learn fastapi
